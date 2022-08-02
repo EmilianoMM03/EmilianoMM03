@@ -7,8 +7,10 @@ I’m Emiliano Munguía, a student of Earth Science who is currently taking a co
 - 👯 I’m looking to collaborate on solving environmental problematics.
 - 🤔 I’m looking for help with getting to know the community.
 - 💬 Ask me about myself and future projects.
-- 📫 How to reach me: send me an e-mail at "emi.munguia.01@gmail.com"
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: send me an e-mail to "emi.munguia.01@gmail.com".
+- 😄 Pronouns: He/Him.
+
+I was born in Puebla and I lived there most of my life, but recently I moved to Mexico City to study at the Universidad Nacional Autónoma de México. 
 
 <!--
 **EmilianoMM03/EmilianoMM03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
