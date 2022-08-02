@@ -1,5 +1,5 @@
 ## Hello there 👋
-![]([https://i.pinimg.com/564x/46/35/0b/46350bf6c1be9f1b465075e65272c02b.jpg](https://cdn131.picsart.com/320601620270211.png?to=crop&type=webp&r=310x310&q=50))
+![](https://cdn131.picsart.com/320601620270211.png?to=crop&type=webp&r=310x310&q=50)
 
 
 I’m Emiliano Munguía, a student of Earth Science who is currently taking a course on "Computer programming to solve environmental problems" by "Clubes de Ciencia México".
