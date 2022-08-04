@@ -1,6 +1,7 @@
 ## Hello there 👋
 ![](https://cdn131.picsart.com/320601620270211.png?to=crop&type=webp&r=310x310&q=50)
 
+Welcome to my first repository! This is my first time in GitHub and I’m excited to learn everything this place has to offer. I appreciate your feedback!
 I’m Emiliano Munguía, a student of Earth Science who is currently taking a course on "Computer programming to solve environmental problems" by "Clubes de Ciencia México".
 - 🔭 I’m currently working on R programming.
 - 🌱 I’m currently learning code.
